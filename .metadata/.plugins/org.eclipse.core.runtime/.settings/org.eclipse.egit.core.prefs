@@ -1,4 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=D\:\\All_Workspace\\workspase_sts\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogSearchPath=D\:\\All_Workspace\\workspase_sts\\.git
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
