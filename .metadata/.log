@@ -2667,3 +2667,21 @@ Caused by: java.io.IOException: Could not rename file D:\All_Workspace\workspase
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-11-19 17:04:12.963
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.247
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.248
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.334
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.335
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.504
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-19 17:04:29.505
+!MESSAGE Non IFiles not supported yet
