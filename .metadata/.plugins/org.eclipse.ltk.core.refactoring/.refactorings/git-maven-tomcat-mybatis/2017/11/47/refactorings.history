@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;git-maven-tomcat-mybatis/src/main/java/a.text&apos; to &apos;a.txt&apos;" description="Rename resource &apos;a.text&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/a.text" name="a.txt" stamp="1511066826162" updateReferences="true"/>
+</session>
