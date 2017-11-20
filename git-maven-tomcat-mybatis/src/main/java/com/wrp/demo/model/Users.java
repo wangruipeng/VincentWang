@@ -30,4 +30,10 @@ public class Users {
     public void setAge(String age) {
         this.age = age == null ? null : age.trim();
     }
+
+	@Override
+	public String toString() {
+		return "Users [id=" + id + ", name=" + name + ", age=" + age + "]";
+	}
+    
 }
